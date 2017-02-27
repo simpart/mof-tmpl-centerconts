@@ -1,0 +1,29 @@
+{
+  "name": "mofron-tmpl-simpleconts",
+  "version": "0.0.7",
+  "description": "SimpleContents Template for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mofron-tmpl-centerconts" : "",
+    "mofron-comp-heading" : "",
+    "mofron-comp-heading-radius" : ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-tmpl-simpleconts.git"
+  },
+  "keywords": [
+    "mofron"
+  ],
+  "author": "simparts",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-tmpl-simpleconts/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-tmpl-simpleconts#readme",
+  "devDependencies": {
+  }
+}
